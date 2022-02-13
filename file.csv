@@ -1,0 +1,66 @@
+Assunto;Cliente (Completo);Serviço (2º Nível);Responsável;Categoria;Urgência;Status
+Reinstalação sigecom;Agropecuaria Souza Tanaka;Reinstalação do Sistema;Bruna Elisa Ramos de Aguiar;Solicitação de serviço;Alta;Resolvido
+Sistema não inicia.;Bom Motivo;SIGECOM não abre;Marcos Maciel;Problema Cliente;Urgente;Resolvido
+Auxiliar na entrada de compra e gerar etiqueta.;Distribuidor De Alimentos Bom Prato;Mód. Compra;Marcos Maciel;Dúvida;Urgente;Resolvido
+Problema ao acessar Sigecom.;Padaria E Confeitaria America;SIGECOM não abre;Marcos Maciel;Problema Cliente;Urgente;Resolvido
+Offline message - André Franzzato;André Franzzato;;;;;Novo
+Erro no momento de imprimir pedido mesmo após alteração.;Azevedo Materiais Para Construção;Mód. Pré-venda;Marcos Maciel;Bug;Urgente;Encaminhado desenvolvimento
+Endereço incorreto do cliente.;Grandes Lagos Tumulos De Granitos;Mód. NFe;Marcos Maciel;Dúvida;Média;Resolvido
+Arquivo de remessa pulando uma numeração no header;Piocom,Piocom » ednilson.siqueira@piocom.com.br;Mód. Boleto;Jessica Graciele;Bug;Alta;Encaminhado desenvolvimento
+Auxiliar na manutenção de estoque;Gustavo Acessorios, Borracharia E Lameiros;Mód. Controle de Estoque;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Valores divergentes no momento de efetuar a venda.;Azevedo Materiais Para Construção;Mód. Pedido;Marcos Maciel;Dúvida;Média;Resolvido
+Sistema não estava abrindo.;Padaria E Confeitaria America;SIGECOM não abre;Marcos Maciel;Problema Cliente;Média;Resolvido
+Instalação sigecom;Mercearia Do Bena;Reinstalação do Sistema;Bruna Elisa Ramos de Aguiar;Solicitação de serviço;Alta;Resolvido
+Auxiliar na emissão de uma carta de correção.;M P - Pneus - (Filial);Mód. NFe;Marcos Maciel;Dúvida;Média;Resolvido
+Antivírus bloqueando o sistema.;Jalecell Celulares E Presentes;SIGECOM não abre;Marcos Maciel;Problema Cliente;Média;Resolvido
+Problema com o envio de fechamento fiscal.;Galeria Vera Bertani,Alini Cavellani;Fechamento Fiscal;Marcos Maciel;Dúvida;Média;Resolvido
+Sistema não lançando duplicata;Imagem Fotolito;Mód. Compra;Bruna Elisa Ramos de Aguiar;Bug;Urgente;Resolvido
+Realizar cancelamento de venda.;Master Beef - Jales - Loja 01;Mód. Financeiro novo;Marcos Maciel;Solicitação de serviço;Baixa;Resolvido
+Re: SPED MP Cereais;tributario@noroestecontabil.com.br;;;;;Novo
+Erro ao emitir nfe;Casa De Carne Avenida;Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Erro ao emitir nfe;Supermercado Costinha;Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Travamento na tela de troca;Cellponto;Mód. Troca;Suporte sistemas;Bug;Média;Em atendimento
+Dúvida sobre estoque;Gustavo Acessorios, Borracharia E Lameiros;Mód. Controle de Estoque;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Data de vencimento do certificado;Michelle Oliveira Dolo Abrantes;Instalação/Reinstalação de Certificado Digital;Gustavo Henrique;Dúvida;Alta;Resolvido
+Nfe não aparece na consulta;Mil Oficina Mecânica Diesel;Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Alta;Resolvido
+Adiamento de bloqueio;Verdurão Guararapes;2a via boleto;Gustavo Henrique;Solicitação de serviço;Urgente;Resolvido
+Chave offline;Veterinaria Santa Salete;SIGECOM não abre;Gustavo Henrique;Problema Cliente;Urgente;Resolvido
+Consumo indevido na nota de compra;Dama Materiais Para Construção;Mód. Compra;Bruna Elisa Ramos de Aguiar;Dúvida;Alta;Resolvido
+Offline message - Vaso E Flora;Vaso E Flora;;;;;Novo
+Problema com o número sequencial.;Piocom;Mód. Boleto;Marcos Maciel;Problema Cliente;Média;Resolvido
+Offline message - Contador MP Cereais;Contador MP Cereais;;;;;Novo
+Fechamento fiscal.;MP CEREAIS;;;;;Novo
+Solicitação de arquivos SPED;Contador MP Cereais;Mód. SPED;Bruno Farina;Dúvida;Urgente;Resolvido
+Desativar diversos produtos de uma só vez.;SIT - ESCOLA DE PROFISSOES » SIT SISTEMAS E TECNOLOGIA;Mód. Controle de Estoque;Marcos Maciel;Dúvida;Média;Resolvido
+Varci Goncalves - Whatsapp;Varci Goncalves;;Jessica Graciele;;;Novo
+Não foi possível emitir cupom fiscal.;Scap Center;Mód. SAT;Marcos Maciel;Problema Cliente;Média;Resolvido
+Valor de nota de compra incorreto.;Tropicale Sorvetes - Santo Expedito;Mód. Compra;Bruno Farina;Dúvida;Alta;Resolvido
+ARQUIVOS CORROMPIDOS RE: Fechamento fiscal.;ESCRITORIO CRUZEIRO (ST ALBERTINA);;;;;Novo
+Alterar regime triutário;Vanusa Lubrificantes;Configurações;Bruna Elisa Ramos de Aguiar;Bug;Média;Resolvido
+Problema ao tentar passar cartões.;Mercado Nova York;Mód. TEF;Marcos Maciel;Problema Cliente;Média;Resolvido
+Erro ao emitir nfe;Agua Viva Clean;Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Inclusão de uma nova empresa.;Escritório De Assistencia Fiscal De Jales;Mód. NFe;Marcos Maciel;Solicitação de serviço;Média;Resolvido
+Problemas na nas vendas e no financeiro;Ig Engenharia;Mód. Financeiro antigo;Bruno Farina;Dúvida;Média;Resolvido
+Fernando Brito - Whatsapp;Fernando Brito;;Jessica Graciele;;;Novo
+Dúvida sobre forma de pagamento;Locomotiva Kids;Mód. Financeiro novo;Bruna Elisa Ramos de Aguiar;Dúvida;Média;Resolvido
+Bárbara - Escritório Lex - Escritorio Lex;Escritorio Lex » Bárbara - Escritório Lex;;Jessica Graciele;;;Novo
+Fechamento fiscal.;Mini Mercado Sao Roque;;;;;Novo
+Chave de acesso offline;Kabana Grill;SIGECOM não abre;Gustavo Henrique;Problema Cliente;Urgente;Resolvido
+Chave de acesso offline;Raiza Aparecida Duran Tussi 37311676894;SIGECOM não abre;Gustavo Henrique;Problema Cliente;Urgente;Cancelado
+Envio de boleto;Troca De Oleo Gusson;Mód. Boleto;Gustavo Henrique;Dúvida;Média;Resolvido
+Base de dados de cliente;Master Informatica;Configurações;Gustavo Henrique;Dúvida;Média;Resolvido
+Unknown contact - 5517996121458 - Whatsapp;Unknown contact - 5517996121458;;Jessica Graciele;;;Novo
+Mini Mercado Sao Roque - Whatsapp;Mini Mercado Sao Roque;;Jessica Graciele;;;Novo
+Remessa de boleto;Vr Agropecuaria;Mód. Boleto;Gustavo Henrique;Dúvida;Média;Resolvido
+Notas de serviço;PAULINHO SOM & ACESSORIOS;Mód. NFSe;Gustavo Henrique;Dúvida;Média;Resolvido
+Casa Nova Móveis - Whatsapp;Casa Nova Móveis;;Jessica Graciele;;;Novo
+Envio de comprovante;Borracharia E Lava Jacto Sao Cristovao;2a via boleto;Gustavo Henrique;Solicitação de serviço;Urgente;Resolvido
+Erro ao emitir SAT;Gaucho's Churrascaria;Mód. SAT;Bruna Elisa Ramos de Aguiar;Problema Cliente;Alta;Resolvido
+Forma de pagamento pix;Alfatec Sistemas;Mód. Financeiro novo;Gustavo Henrique;Dúvida;Alta;Resolvido
+Erro ao emitir nfe;Borracharia Líder;Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Alta;Resolvido
+Numero SAT;Prada Gás;Mód. SAT;Gustavo Henrique;Dúvida;Média;Resolvido
+Espuma-Xy - Whatsapp;Espuma-Xy;;Jessica Graciele;;;Novo
+Dúvidas sobre mensalidade;Hora Extra;2a via boleto;Gustavo Henrique;Solicitação de serviço;Urgente;Resolvido
+Nfe não emitida;M P - Pneus - (Matriz);Mód. NFe;Bruna Elisa Ramos de Aguiar;Dúvida;Alta;Resolvido
+Sat fora de operação;Padaria Santo Expedito » PADARIA SANTO EXPEDITO;Mód. SAT;Gustavo Henrique;Equipamentos (Hardware);Média;Resolvido
+Offline message - PADARIA SANTO EXPEDITO;Padaria Santo Expedito » PADARIA SANTO EXPEDITO;Mód. SAT;Gustavo Henrique;Equipamentos (Hardware);Média;Resolvido
